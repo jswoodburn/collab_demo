@@ -1,3 +1,6 @@
+# e.g. exclude anything in my images folder from being tracked
+images/ 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
